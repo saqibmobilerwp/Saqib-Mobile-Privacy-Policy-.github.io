@@ -1,5 +1,4 @@
-# Saqibmobile-policies-.github.io
-Saqib Mobile: Privacy Policy
+# Saqib Mobile Privacy Policy
 Last Updated: April 2026
 1. Data We Collect
 We collect your Name, Phone Number, and Shipping Address to process orders and verify your identity via Chat or Phone. We do not store bank or card details at this time.
